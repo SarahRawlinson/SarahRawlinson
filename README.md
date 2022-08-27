@@ -6,7 +6,7 @@
  - [**YouTube**](https://www.youtube.com/channel/UCZzctauCe1sxTTCsK93Tlmw) <br>
  - [**CodinGame**](https://www.codingame.com/profile/a1e2eaabbc2c9f00fcf40b0e27e2a5b17222005) <br>
 ## Work :computer: <br> 
-:chart_with_downwards_trend: My current job role: Lead Data Analyst
+- :chart_with_downwards_trend: My current job role: Lead Data Analyst
 ## Personal Projects :smile_cat:
 - :construction: I’m currently working on: PHP Website
 - :exploding_head: I’m currently learning: PHP 
