@@ -8,8 +8,8 @@
 ## Work :computer: <br> 
 - :chart_with_downwards_trend: My current job role: Lead Data Analyst
 ## Personal Projects :smile_cat:
-- :construction: I’m currently working on: PHP Website
-- :exploding_head: I’m currently learning: PHP 
+- :construction: I’m currently working on: PHP-Website-Database
+- :exploding_head: I’m currently learning: PHP, JavaScript, CSS & HTML 
 - :mortar_board: I have previously learned: C#, Python, VBA, SQL and Unity
 
 
