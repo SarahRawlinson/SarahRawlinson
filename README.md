@@ -16,7 +16,7 @@
 
 ## Some of my projects include :file_folder:<br>
 - Chess :chess_pawn: <br>
-- Poker :spades: :spades: :diamonds: :clubs: <br>
+- Poker :hearts: :spades: :diamonds: :clubs: <br>
 - Genetic Algorithms :dna:
 - RTS Multiplayer :satellite: :signal_strength: :joystick: <br> 
 - RPG Game :world_map: :compass: :dagger:<br>
