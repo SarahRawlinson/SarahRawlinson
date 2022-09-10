@@ -8,9 +8,9 @@
 ## Work :computer: <br> 
 - :chart_with_downwards_trend: My current job role: Lead Data Analyst
 ## Personal Projects :smile_cat:
-- :construction: I’m currently working on: PHP-Website-Database
-- :exploding_head: I’m currently learning: PHP, SQL, JavaScript, CSS & HTML 
-- :mortar_board: I have previously learned: C#, Python, VBA and Unity
+- :construction: I’m currently working on: [PHP-My-Fake-Person-SQL](https://github.com/SarahRawlinson/PHPMyFakePersonSQL)
+- :exploding_head: I’m currently learning: PHP & SQL
+- :mortar_board: I have previously learned: C#, Python, VBA, Unity, CSS & HTML 
 
 
 
