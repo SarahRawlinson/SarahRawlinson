@@ -8,17 +8,21 @@
 ## Work :computer: <br> 
 - :chart_with_downwards_trend: My current job role: Lead Data Analyst
 ## Personal Projects :smile_cat:
-- :construction: I’m currently working on: [PHP-My-Fake-Person-SQL](https://github.com/SarahRawlinson/PHPMyFakePersonSQL)
-- :exploding_head: I’m currently learning: PHP & SQL
-- :mortar_board: I have previously learned: C#, Python, VBA, Unity, CSS & HTML 
+- :construction: I’m currently working on: [ExplodingAtomsLikeGame](https://github.com/SarahRawlinson/ExplodingAtomsLikeGame) :boom:
+- :exploding_head: I’m currently learning: PHP
+- :mortar_board: I have previously learned: C#, Python, VBA, Unity, SQL, CSS & HTML 
 
-
+## Interests
+- AI :robot:
+- Games :video_game:
+- Strategy :brain:
 
 ## Some of my projects include :file_folder:<br>
-- [PHP-My-Fake-Person-SQL](https://github.com/SarahRawlinson/PHPMyFakePersonSQL) :suspect: :clipboard: :detective: <br>
-- [PHP-Website-Database](https://github.com/SarahRawlinson/PHP-Website-Database) :link: <br>
 - [Chess Like Game](https://github.com/SarahRawlinson/ChessLikeGame) :chess_pawn: <br>
 - [Texas Holdem Poker](https://github.com/SarahRawlinson/Texas_Holdem_Poker) :hearts: :spades: :diamonds: :clubs: <br>
 - [Coding Movement Genetic Algorithm](https://github.com/SarahRawlinson/CodingMovementGeneticAlgorithm):dna:
-- RTS Multiplayer :satellite: :signal_strength: :joystick: <br> 
-- RPG Game :world_map: :compass: :dagger:<br>
+- [RTS Multiplayer](https://youtu.be/BHmb6qlYlr8) :satellite: :signal_strength: :joystick: <br> 
+- [RPG Game](https://youtu.be/RttDSYR97-I) :world_map: :compass: :dagger:<br>
+- [PHP-My-Fake-Person-SQL](https://github.com/SarahRawlinson/PHPMyFakePersonSQL) :adult: :woman: <br>
+- [PHP-Website-Database](https://github.com/SarahRawlinson/PHP-Website-Database) :spider_web: :link: <br>
+- [ExplodingAtomsLikeGame](https://github.com/SarahRawlinson/ExplodingAtomsLikeGame) :boom:  :atom_symbol: <br>
