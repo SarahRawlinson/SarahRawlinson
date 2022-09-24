@@ -1,6 +1,6 @@
 
-# :woman_technologist: **I'm Sarah Rawlinson** :sparkles:
-### Welcome to my GitHub👋 <br>
+# :woman_technologist: **Sarah's Github** :sparkles:
+### Welcome👋 <br>
 ##  Find me on :mag: <br>
  - [**itch.io**](https://sarahrawlinson.itch.io) <br>
  - [**YouTube**](https://www.youtube.com/channel/UCZzctauCe1sxTTCsK93Tlmw) <br>
