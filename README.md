@@ -8,7 +8,7 @@
 ## Work :computer: <br> 
 - :chart_with_downwards_trend: My current job role: Lead Data Analyst
 ## Personal Projects :smile_cat:
-- :construction: I’m currently working on: [ExplodingAtomsLikeGame](https://github.com/SarahRawlinson/ExplodingAtomsLikeGame) :boom:
+- :construction: I’m currently working on: [ExplodingAtomsLikeGame](https://github.com/SarahRawlinson/ExplodingAtomsLikeGame) :boom: :atom_symbol:
 - :exploding_head: I’m currently learning: PHP
 - :mortar_board: I have previously learned: C#, Python, VBA, Unity, SQL, CSS & HTML 
 
