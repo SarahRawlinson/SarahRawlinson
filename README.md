@@ -8,7 +8,7 @@
 ## Work :computer: <br> 
 - :chart_with_downwards_trend: My current job role: Lead Data Analyst
 ## Personal Projects :smile_cat:
-- :construction: I’m currently working on: [ExplodingAtomsLikeGame](https://github.com/SarahRawlinson/ExplodingAtomsLikeGame) :boom: :atom_symbol:
+- :construction: I’m currently working on: [AtomsLikeGame](https://github.com/SarahRawlinson/AtomsLikeGame) :boom: :atom_symbol:
 - :exploding_head: I’m currently learning: PHP
 - :mortar_board: I have previously learned: C#, Python, VBA, Unity, SQL, CSS & HTML 
 
@@ -25,4 +25,4 @@
 - [RPG Game](https://youtu.be/RttDSYR97-I) :world_map: :compass: :dagger:<br>
 - [PHP-My-Fake-Person-SQL](https://github.com/SarahRawlinson/PHPMyFakePersonSQL) :adult: :woman: <br>
 - [PHP-Website-Database](https://github.com/SarahRawlinson/PHP-Website-Database) :spider_web: :link: <br>
-- [ExplodingAtomsLikeGame](https://github.com/SarahRawlinson/ExplodingAtomsLikeGame) :boom:  :atom_symbol: <br>
+- [AtomsLikeGame](https://github.com/SarahRawlinson/AtomsLikeGame) :boom:  :atom_symbol: <br>
