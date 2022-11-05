@@ -5,12 +5,13 @@
  - [**itch.io**](https://sarahrawlinson.itch.io) <br>
  - [**YouTube**](https://www.youtube.com/channel/UCZzctauCe1sxTTCsK93Tlmw) <br>
  - [**CodinGame**](https://www.codingame.com/profile/a1e2eaabbc2c9f00fcf40b0e27e2a5b17222005) <br>
+ - [**CodePen**](https://codepen.io/bunnies0706) <br>
 ## Work :computer: <br> 
-- :chart_with_downwards_trend: My current job role: Developer (Junior)
+- My current job role: Developer (Junior)
 ## Personal Projects :smile_cat:
-<!-- - :construction: I’m currently working on: ? -->
-- :exploding_head: I’m currently learning: JS
-- :mortar_board: I have previously learned: PHP, C#, Python, VBA, Unity, SQL, CSS & HTML 
+- :construction: I’m currently working on: PHP_Poker
+- :exploding_head: I’m currently learning: unit tests in PHP
+- :mortar_board: I have previously learned: JQuery, PHP, C#, Python, VBA, Unity, SQL, CSS & HTML 
 
 ## Interests
 - AI :robot:
