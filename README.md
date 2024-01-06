@@ -11,7 +11,7 @@
 ## Personal Projects :smile_cat:
 - :construction: I’m currently working on: PHP_Poker
 - :exploding_head: I’m currently learning: unit tests in PHP
-- :mortar_board: I have previously learned: JQuery, PHP, C#, Python, VBA, Unity, SQL, CSS & HTML 
+- :mortar_board: I have previously learned: JS, PHP, C#, Python, VBA, Unity, SQL, CSS & HTML 
 
 ## Interests
 - AI :robot:
