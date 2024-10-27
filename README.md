@@ -9,9 +9,7 @@
 ## Work :computer: <br> 
 - My current job role: Developer (Junior)
 ## Personal Projects :smile_cat:
-- :construction: I’m currently working on: PHP_Poker
-- :exploding_head: I’m currently learning: unit tests in PHP
-- :mortar_board: I have previously learned: JS, PHP, C#, Python, VBA, Unity, SQL, CSS & HTML 
+- :mortar_board: Knowlage: JS, PHP, C#, Python, VBA, Unity, Godot, SQL, CSS & HTML 
 
 ## Interests
 - AI :robot:
