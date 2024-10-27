@@ -1,14 +1,15 @@
 
 # :woman_technologist: **Sarah's Github** :sparkles:
 ### Welcome👋 <br>
+
 ##  Find me on :mag: <br>
  - [**itch.io**](https://sarahrawlinson.itch.io) <br>
  - [**YouTube**](https://www.youtube.com/channel/UCZzctauCe1sxTTCsK93Tlmw) <br>
  - [**CodinGame**](https://www.codingame.com/profile/a1e2eaabbc2c9f00fcf40b0e27e2a5b17222005) <br>
  - [**CodePen**](https://codepen.io/bunnies0706) <br>
-## Work :computer: <br> 
-- My current job role: Developer (Junior)
-## Personal Projects :smile_cat:
+ 
+## About :computer: <br> 
+- Job Role: Web Developer (Junior)
 - :mortar_board: Knowlage: JS, PHP, C#, Python, VBA, Unity, Godot, SQL, CSS & HTML 
 
 ## Interests
