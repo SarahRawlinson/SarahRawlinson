@@ -18,11 +18,14 @@
 - Strategy :brain:
 
 ## Some of my projects include :file_folder:<br>
+- [GeoMapLib](https://github.com/SarahRawlinson/GeoMapLib) :world_map:  <br>
+- [Godot Radial Menu Tool](https://github.com/SarahRawlinson/Godot-Radial-Menu-Tool) :video_game: <br>
+- [Simple Unity Maze Maker and Path Finder for Maze](https://github.com/SarahRawlinson/Simple-Unity-Maze-Maker-and-Path-Finder-for-Maze)  :arrow_right: <br>
 - [Chess Like Game](https://github.com/SarahRawlinson/ChessLikeGame) :chess_pawn: <br>
 - [Texas Holdem Poker](https://github.com/SarahRawlinson/Texas_Holdem_Poker) :hearts: :spades: :diamonds: :clubs: <br>
 - [Coding Movement Genetic Algorithm](https://github.com/SarahRawlinson/CodingMovementGeneticAlgorithm):dna:
 - [RTS Multiplayer](https://youtu.be/BHmb6qlYlr8) :satellite: :signal_strength: :joystick: <br> 
-- [RPG Game](https://youtu.be/RttDSYR97-I) :world_map: :compass: :dagger:<br>
+- [RPG Game](https://youtu.be/RttDSYR97-I) :earth_americas: :compass: :dagger:<br>
 - [PHP-My-Fake-Person-SQL](https://github.com/SarahRawlinson/PHPMyFakePersonSQL) :adult: :woman: <br>
 - [PHP-Website-Database](https://github.com/SarahRawlinson/PHP-Website-Database) :spider_web: :link: <br>
 - [AtomsLikeGame](https://github.com/SarahRawlinson/AtomsLikeGame) :boom:  :atom_symbol: <br>
